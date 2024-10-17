@@ -2,3 +2,4 @@ numpy
 pandas
 scikit-learn
 requests
+JPype1
