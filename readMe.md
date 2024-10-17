@@ -32,7 +32,7 @@ MultiAgentProgrammingAssistant 是一个基于多智能体架构的编程辅助�
 
 ## 如何开始
 1. 克隆项目仓库：   ```
-   git clone https://github.com/zons-zhaozhy/MultiAgentProgrammingAssistant.git
+   git clone https://github.com/zzy-git/MultiAgentProgrammingAssistant.git
    ```
 2. 安装必要的Python依赖：   ```
    pip install -r requirements.txt
